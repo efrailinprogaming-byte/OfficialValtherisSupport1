@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "filtros": {
+    "palabras": {
+      "enabled": true,
+      "lista": [
+        "mrd"
+      ]
+    },
+    "links": {
+      "enabled": true
+    },
+    "spam": {
+      "enabled": true,
+      "limite": 8,
+      "segundos": 10
+    },
+    "mayusculas": {
+      "enabled": true,
+      "porcentaje": 50
+    },
+    "menciones": {
+      "enabled": true,
+      "limite": 4
+    }
+  },
+  "logChannel": null,
+  "ignoredRoles": [],
+  "ignoredChannels": []
+}

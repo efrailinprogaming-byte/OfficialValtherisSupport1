@@ -1,0 +1,49 @@
+{
+  "1500173072181755904": {
+    "1294489294043349023": {
+      "warns": 0,
+      "log": [
+        {
+          "razon": "spam",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T19:56:51.899Z"
+        },
+        {
+          "razon": "spam",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T19:56:58.085Z"
+        },
+        {
+          "razon": "spam",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T19:57:01.531Z"
+        },
+        {
+          "razon": "sp",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T19:57:08.593Z"
+        },
+        {
+          "razon": "spam",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T19:57:11.934Z"
+        },
+        {
+          "razon": "[AUTO] Aislamiento aplicado por 5 warns.",
+          "moderador": "Sistema",
+          "fecha": "2026-05-16T19:57:12.540Z"
+        },
+        {
+          "razon": "No spam",
+          "moderador": "fray23",
+          "fecha": "2026-05-16T20:42:01.563Z"
+        },
+        {
+          "razon": "[UNWARN] Se quitaron 1 advertencia(s).",
+          "moderador": "fray23",
+          "fecha": "2026-05-17T17:47:54.800Z"
+        }
+      ]
+    }
+  }
+}
